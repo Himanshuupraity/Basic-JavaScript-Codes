@@ -4,5 +4,5 @@ Here are some fundamental JavaScript code snippets and concepts.
 <ol>
   <li>Install Node.js (LTS) to run the code in vs code terminal</li>
   <li>Download the node.js - <a>https://nodejs.org/en</a></li>
-  <li>Use node (file name) in vs code terminal to run the code</li>
+  <li>Use node (file name) in vs code terminal to run the code </li>
 </ol>
